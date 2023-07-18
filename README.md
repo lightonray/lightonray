@@ -6,8 +6,8 @@
 <p align="center"> <img src="https://64.media.tumblr.com/4f90ba2ae672f75fed29e6393e8af3a3/694c1a2e68bbf902-68/s640x960/9a611a20e2abb6dd3c42000333d5b2f47d587952.gifv" alt="lightonray" /> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.hackerrank.com/lightonray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lightonray" height="30" width="40" /></a>
 </p>
 
