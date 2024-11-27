@@ -1,4 +1,3 @@
-Hi, I'm Rei! A **Software Engineer** and graduate of **Cardiff Metropolitan University** 🎓.
 ---
 
 ## 🛠️ Tech Stack
