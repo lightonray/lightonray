@@ -32,13 +32,13 @@
 ## 📊 GitHub Stats & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lightonray&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightonray&theme=radical" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" alt="Profile Summary" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lightonray&theme=radical" alt="Profile Summary" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lightonray&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
