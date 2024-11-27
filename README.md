@@ -45,5 +45,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightonray&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lightonray&theme=radical" alt="Wakatime Stats" width="48%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=lightonray&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" width="48%" />
 </p>
