@@ -1,10 +1,4 @@
 
-<p align="center">
-  <a href="https://discord.com/channels/@me/lightonray" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-lightonray.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: lightonray." />
-  </a>
-</p>
-
 ## 🛠️ Tech Stack
 
 <p align="center">
