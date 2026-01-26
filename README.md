@@ -1,41 +1,6 @@
-## Technical Skills
-
-### Programming Languages
-- JavaScript
-- C#
-- PHP
-- HTML5, CSS3
-
-### Frameworks & Libraries
-- Laravel
-- React
-- Bootstrap
-
-### Databases
-- MySQL
-- MongoDB
-- SQL Server
-
-### Infrastructure & Tooling
-- Docker
-- Grafana
-- Prometheus
-
-### Design & Prototyping
-- Figma
-
----
-
-## Areas of Focus
-- Backend architecture and API design  
-- Database modeling and performance optimization  
-- Scalable web application development  
-- Containerized environments and monitoring  
-- Clean, maintainable, production-ready code  
-
----
-
-## GitHub Activity
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lightonray&theme=radical" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lightonray&show_icons=true&theme=radical" width="48%" />
@@ -43,5 +8,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lightonray&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightonray&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lightonray&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lightonray&theme=radical&hide_border=true" />
 </p>
